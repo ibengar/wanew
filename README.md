@@ -72,8 +72,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/Hutaobot/hutao
+cd hutao
 npm install
 npm update
 ```
@@ -88,8 +88,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/Hutaobot/hutao
+cd hutao
 npm install
 npm update
 ```
@@ -219,7 +219,7 @@ Semua yang selalu mendukung
 [![amiruldev20](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
 [![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
-
+[![Aine](https://github.com/Aiinne.png?size=100)](https://github.com/Aiinne)
 
 Best Regards. Aine-MD
 
