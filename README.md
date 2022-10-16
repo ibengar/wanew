@@ -220,7 +220,7 @@ Semua yang selalu mendukung
 [![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 [![Aine](https://github.com/Aiinne.png?size=100)](https://github.com/Aiinne)
-[![Hutaobot](https://github.com/Hutaobot.png?size=100)](https://github.com/Hutaobot)
+[![Hutaobot](https://github.com/Hutaobot.png?size=50)](https://github.com/Hutaobot)
 
 Best Regards. Hu Tao Bot-MD 
 
